@@ -1,9 +1,9 @@
 """
 helloworld.py
 
-A program to say hello
+A program to say helloworld
 """
 
 if __name__ == '__main__':
-    print('Hello, Git world!')
+    print('Helloworld!')
     
